@@ -23,7 +23,7 @@ Sou o **Heitor**, estudante de **Tecnologia em Análise e Desenvolvimento de Sis
 
 Estou construindo minha base em lógica de programação, orientação a objetos e desenvolvimento web, com foco em análise de sistemas e banco de dados SQL, usando o phpMyAdmin para gerenciar meus bancos.
 
-Ainda não tenho projetos publicados aqui, mas este perfil é o lugar onde eles vão aparecer.
+Aqui embaixo ficam os repositórios que já publiquei durante os estudos.
 
 ---
 
@@ -50,27 +50,28 @@ Ainda não tenho projetos publicados aqui, mas este perfil é o lugar onde eles 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="480">
-      <br/>
-      <b>🚧 Primeiro projeto em andamento</b>
-      <br/><br/>
-      <sub>Ainda não publiquei nada por aqui.<br/>Quando sair o primeiro repositório, ele aparece neste espaço.</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Heitor-Daveis/atividade-chute">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heitor-Daveis&repo=atividade-chute&theme=dark&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37" alt="atividade-chute"/>
+</a>
+<a href="https://github.com/Heitor-Daveis/sitechute">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heitor-Daveis&repo=sitechute&theme=dark&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37" alt="sitechute"/>
+</a>
+
+<a href="https://github.com/Heitor-Daveis/Mini-projeto.OO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heitor-Daveis&repo=Mini-projeto.OO&theme=dark&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37" alt="Mini-projeto.OO"/>
+</a>
+<a href="https://github.com/Heitor-Daveis/OperacoesCPF">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heitor-Daveis&repo=OperacoesCPF&theme=dark&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37" alt="OperacoesCPF"/>
+</a>
+
+<a href="https://github.com/Heitor-Daveis/html1509">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heitor-Daveis&repo=html1509&theme=dark&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37" alt="html1509"/>
+</a>
+<a href="https://github.com/Heitor-Daveis/Gabriely_e_Heitor_Fit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heitor-Daveis&repo=Gabriely_e_Heitor_Fit&theme=dark&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37" alt="Gabriely_e_Heitor_Fit"/>
+</a>
 
 </div>
-
-<!--
-QUANDO TIVER UM PROJETO, SUBSTITUA O CARD ACIMA POR ESTE:
-
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO&theme=dark&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37" alt="NOME_DO_REPO"/>
-</a>
--->
 
 ---
 
@@ -78,12 +79,12 @@ QUANDO TIVER UM PROJETO, SUBSTITUA O CARD ACIMA POR ESTE:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37&ring_color=722F37" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&border_color=722F37" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Heitor-Daveis&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&icon_color=722F37&border_color=722F37&ring_color=722F37" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Daveis&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=B5424F&text_color=c9c9c9&border_color=722F37" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&background=0d0d0d&ring=722F37&fire=B5424F&currStreakLabel=B5424F&currStreakNum=f2f2f2&sideNums=f2f2f2&sideLabels=c9c9c9&dates=8a8a8a&stroke=722F37&border=722F37" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Heitor-Daveis&background=0d0d0d&ring=722F37&fire=B5424F&currStreakLabel=B5424F&currStreakNum=f2f2f2&sideNums=f2f2f2&sideLabels=c9c9c9&dates=8a8a8a&stroke=722F37&border=722F37" alt="GitHub Streak"/>
 
 </div>
 
@@ -93,7 +94,7 @@ QUANDO TIVER UM PROJETO, SUBSTITUA O CARD ACIMA POR ESTE:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d0d0d&color=B5424F&line=722F37&point=f2f2f2&area=true&area_color=722F37&hide_border=true&title_color=B5424F" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heitor-Daveis&bg_color=0d0d0d&color=B5424F&line=722F37&point=f2f2f2&area=true&area_color=722F37&hide_border=true&title_color=B5424F" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -103,7 +104,7 @@ QUANDO TIVER UM PROJETO, SUBSTITUA O CARD ACIMA POR ESTE:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Heitor-Daveis&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -114,9 +115,9 @@ QUANDO TIVER UM PROJETO, SUBSTITUA O CARD ACIMA POR ESTE:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg"/>
-  <img alt="Snake Contribution" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heitor-Daveis/Heitor-Daveis/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heitor-Daveis/Heitor-Daveis/output/github-snake.svg"/>
+  <img alt="Snake Contribution" src="https://raw.githubusercontent.com/Heitor-Daveis/Heitor-Daveis/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
