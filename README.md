@@ -138,4 +138,4 @@ Aqui embaixo ficam os repositórios que já publiquei durante os estudos.
 </div>
 
 <!-- RODAPÉ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:722F37,100:0d0d0d&section=footer&text=Feito%20com%20caf%C3%A9%20e%20curiosidade&fontColor=f2f2f2&fontSize=20&fontAlignY=68" alt="Rodapé" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:722F37,100:0d0d0d&section=footer&text=Erros%20fazem%20parte%20do%20c%C3%B3digo&fontColor=f2f2f2&fontSize=20&fontAlignY=68" alt="Rodapé" width="100%"/>
