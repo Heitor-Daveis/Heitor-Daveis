@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0d0d,100:722F37&text=Heitor%20Daveis%20Rocha&fontColor=f2f2f2&fontSize=46&fontAlignY=38&desc=Estudante%20de%20TADS%20%E2%80%A2%20IFPR&descColor=c9a0a6&descSize=18&descAlignY=58" alt="Banner" width="100%"/>
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B5424F&center=true&vCenter=true&width=520&height=40&lines=Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;PHP+%2B+SQL+%2B+Orienta%C3%A7%C3%A3o+a+Objetos;Aprendendo+e+construindo+meu+caminho" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B5424F&center=true&vCenter=true&width=700&height=40&lines=Cursando+TADS+no+IFPR;Banco+de+dados+SQL+e+phpMyAdmin;Orienta%C3%A7%C3%A3o+a+objetos+e+desenvolvimento+web;Aprendendo+e+construindo+meu+caminho" alt="Typing SVG"/>
 
 <br/>
 
 ![Status](https://img.shields.io/badge/status-aprendendo-722F37?style=flat-square&labelColor=0d0d0d)
 ![IFPR](https://img.shields.io/badge/IFPR-TADS-722F37?style=flat-square&labelColor=0d0d0d)
-![PHP](https://img.shields.io/badge/PHP-722F37?style=flat-square&logo=php&logoColor=white&labelColor=0d0d0d)
 ![SQL](https://img.shields.io/badge/SQL-722F37?style=flat-square&logo=mysql&logoColor=white&labelColor=0d0d0d)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-722F37?style=flat-square&logo=phpmyadmin&logoColor=white&labelColor=0d0d0d)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 Sou o **Heitor**, estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPR**.
 
-Estou construindo minha base em lógica de programação, orientação a objetos e desenvolvimento web, com foco em análise de sistemas e banco de dados SQL. PHP é a linguagem com a qual mais tenho trabalhado.
+Estou construindo minha base em lógica de programação, orientação a objetos e desenvolvimento web, com foco em análise de sistemas e banco de dados SQL, usando o phpMyAdmin para gerenciar meus bancos.
 
 Ainda não tenho projetos publicados aqui, mas este perfil é o lugar onde eles vão aparecer.
 
@@ -31,7 +31,8 @@ Ainda não tenho projetos publicados aqui, mas este perfil é o lugar onde eles 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,mysql,github&theme=dark" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=mysql,github&theme=dark" alt="Tecnologias"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-722F37?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=0d0d0d" alt="phpMyAdmin"/>
 
 <br/><br/>
 
